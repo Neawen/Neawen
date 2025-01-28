@@ -16,6 +16,10 @@
 - 🐾 Cats are my favorite companions.
 
 ## 📫 Get in Touch
-- [Portfolio](https://lenoble-anais-dev.vercel.app/)
-- [LinkedIn](www.linkedin.com/in/anais-lenoble)
-- [Email Me](a.nais_60@live.fr)
+- [Portfolio]https://lenoble-anais-dev.vercel.app/
+- [LinkedIn]www.linkedin.com/in/anais-lenoble
+- [Email Me]a.nais_60@live.fr
+
+
+
+[![Neawen's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neawen&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
