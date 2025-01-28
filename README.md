@@ -16,9 +16,9 @@
 - 🐾 Cats are my favorite companions.
 
 ## 📫 Get in Touch
-- [Portfolio]https://lenoble-anais-dev.vercel.app/
-- [LinkedIn]www.linkedin.com/in/anais-lenoble
-- [Email Me]a.nais_60@live.fr
+- [Portfolio](https://lenoble-anais-dev.vercel.app/)
+- [LinkedIn](www.linkedin.com/in/anais-lenoble)
+- [Email Me](a.nais_60@live.fr)
 
 
 
