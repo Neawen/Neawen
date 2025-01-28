@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Neawen! 
 
-<!--
-**Neawen/Neawen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
+- 🌱 I’m currently learning **Node.js** and **MongoDB**.
+- 🔭 I’m continue working on my portfolio.
+- 🌍 Based in Montdidier, France.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, SASS, JavaScript, React, TailwindCSS.
+- **Backend (coming soon):** Node.js, Express.
+- **Tools:** Git, GitHub, Figma, Vite.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Fun Facts
+- 🏞️ I love hiking and photographing nature.
+- 🐟 I have a planted aquarium with colorful fish!
+- 🐾 Cats are my favorite companions.
+
+## 📫 Get in Touch
+- [Portfolio](https://lenoble-anais-dev.vercel.app/)
+- [LinkedIn](www.linkedin.com/in/anais-lenoble)
+- [Email Me](a.nais_60@live.fr)
