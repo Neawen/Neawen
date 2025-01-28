@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 - 🌱 I’m currently learning **Node.js** and **MongoDB**.
-- 🔭 I’m continue working on my portfolio.
+- 🔭 I continue to work on my portfolio.
 - 🌍 Based in Montdidier, France.
 
 ## 🛠️ Skills
@@ -17,8 +17,8 @@
 
 ## 📫 Get in Touch
 - [Portfolio](https://lenoble-anais-dev.vercel.app/)
-- [LinkedIn](www.linkedin.com/in/anais-lenoble)
-- [Email Me](a.nais_60@live.fr)
+- [LinkedIn](https://www.linkedin.com/in/anais-lenoble/)
+- [Email Me](mailto:a.nais_60@live.fr)
 
 
 
