@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Neawen! 
+# 👋 Hello, I'm Anaïs! 
 
 ## 💻 About Me
 - 🌱 I’m currently learning **Node.js** and **MongoDB**.
