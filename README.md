@@ -19,10 +19,11 @@
 - [Portfolio](https://lenoble-anais-dev.vercel.app/)
 - [LinkedIn](https://www.linkedin.com/in/anais-lenoble/)
 - [Email Me](mailto:a.nais_60@live.fr)
+  
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical)
 ![Neawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical)
+
 
 
 
