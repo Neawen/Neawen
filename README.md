@@ -21,8 +21,10 @@
 - [Email Me](mailto:a.nais_60@live.fr)
   
 ##
-![Neawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&theme=radical)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical" />
+</p>
 
 
 
