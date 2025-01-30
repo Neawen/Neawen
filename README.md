@@ -22,7 +22,7 @@
   
 ##
 ![Neawen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&theme=radical)
 
 
 
