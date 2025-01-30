@@ -22,9 +22,10 @@
   
 ##
 <p align="center">
-  <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical" />
-  <img width="48%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Neawen&show_icons=true&theme=radical" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neawen&layout=compact&theme=radical" />
 </p>
+
 
 
 
